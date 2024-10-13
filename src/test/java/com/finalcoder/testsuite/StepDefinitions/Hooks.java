@@ -1,6 +1,6 @@
 package com.finalcoder.testsuite.StepDefinitions;
 
-import com.finalcoder.testsuite.Common.CommonMethods;
+import com.finalcoder.selenium.CommonMethods;
 import com.finalcoder.testsuite.Common.DriverManager;
 import com.finalcoder.testsuite.Common.TestConfiguration;
 import io.cucumber.java.After;

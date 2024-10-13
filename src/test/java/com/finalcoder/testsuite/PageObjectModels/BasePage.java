@@ -2,7 +2,7 @@ package com.finalcoder.testsuite.PageObjectModels;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-import com.finalcoder.testsuite.Common.CommonMethods;
+import com.finalcoder.selenium.CommonMethods;
 import com.finalcoder.testsuite.Common.DriverManager;
 import org.assertj.core.api.AbstractStringAssert;
 import org.openqa.selenium.WebDriver;

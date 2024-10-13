@@ -1,6 +1,6 @@
 package com.finalcoder.testsuite.StepDefinitions;
 
-import com.finalcoder.testsuite.Common.CommonMethods;
+import com.finalcoder.selenium.CommonMethods;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 

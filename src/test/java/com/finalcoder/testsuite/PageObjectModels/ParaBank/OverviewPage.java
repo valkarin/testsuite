@@ -1,6 +1,6 @@
 package com.finalcoder.testsuite.PageObjectModels.ParaBank;
 
-import com.finalcoder.testsuite.Common.CommonMethods;
+import com.finalcoder.selenium.CommonMethods;
 import com.finalcoder.testsuite.PageObjectModels.BasePage;
 import java.util.Collections;
 import java.util.Map;

@@ -1,6 +1,6 @@
 package com.finalcoder.testsuite.StepDefinitions;
 
-import com.finalcoder.testsuite.Common.CommonMethods;
+import com.finalcoder.selenium.CommonMethods;
 import io.qameta.allure.Allure;
 
 public abstract class BaseStepDefinition {

@@ -15,8 +15,8 @@
         <maven.compiler.source>17</maven.compiler.source>
         <aspectj.version>1.9.20.1</aspectj.version>
         <allure.version>2.27.0</allure.version>
-        <selenium.version>4.19.0</selenium.version>
-        <webdrivermanager.version>5.8.0</webdrivermanager.version>
+        <selenium.version>4.25.0</selenium.version>
+        <webdrivermanager.version>5.9.2</webdrivermanager.version>
         <cucumber.version>7.16.0</cucumber.version>
         <jackson.version>2.17.0</jackson.version>
         <log4j2.version>2.23.1</log4j2.version>

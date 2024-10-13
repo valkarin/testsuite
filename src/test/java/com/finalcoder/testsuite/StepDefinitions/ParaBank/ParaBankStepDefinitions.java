@@ -2,7 +2,7 @@ package com.finalcoder.testsuite.StepDefinitions.ParaBank;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
-import com.finalcoder.testsuite.Common.CommonMethods;
+import com.finalcoder.selenium.CommonMethods;
 import com.finalcoder.testsuite.Common.Constants;
 import com.finalcoder.testsuite.Common.Models.Credentials;
 import com.finalcoder.testsuite.Common.ScenarioContext;
